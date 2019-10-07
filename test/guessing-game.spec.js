@@ -1,4 +1,5 @@
-const GuessingGame = require('../src/guessing-game.js')
+const GuessingGame = require('../src/guessing-game.js');
+const number = require('../src/guessing-game.js')
 
 describe('GuessingGame', () => {
 describe('#guess', () => {
